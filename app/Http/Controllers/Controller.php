@@ -1,4 +1,4 @@
-<?php // teste
+<?php
 
 namespace App\Http\Controllers;
 
