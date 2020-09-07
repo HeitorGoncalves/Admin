@@ -38,3 +38,19 @@ img {
     background: url("../imagens/fundo.jpg") no-repeat;
     height: 628px;
 }
+
+.fundoLogin p {
+    color: #FFF;
+}
+
+.fundoLogin img {
+    width: 100px;
+}
+
+.copy {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    color: #FFF;
+    text-align: center;
+}

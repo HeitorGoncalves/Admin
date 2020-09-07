@@ -67,6 +67,12 @@
 
 
         <div class="col-12 col-sm-6 col-md-6 fundoLogin">
+
+        
+          <a class="copy" href="https://heitorgoncalves.github.io/" target="_blank">Copyright © 2020 All rights reserved.</a>
+
+
+         
         </div>
 
       </div>
